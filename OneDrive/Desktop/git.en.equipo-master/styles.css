@@ -1,0 +1,7 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background: linear-gradient(#fde6e6, rgb(255, 206, 206));
+    background-size:cover;
+    background-attachment:fixed;
+}
